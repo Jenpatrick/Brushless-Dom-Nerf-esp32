@@ -7,7 +7,7 @@ The Sparkfun ESP32 Thing was the only unit to test successfull
 
 # Original credit and many thanks go to https://github.com/airzone-sama for a ton of help and advice.
 
-## A HOW-TO And Bill Of Materials, and maybe a wiring video and doc will appear by March 2019.
+## A HOW-TO And Bill Of Materials, and maybe a wiring video and doc will appear by May 2019.
 
 
 ---------------------------------------
