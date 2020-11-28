@@ -1,3 +1,20 @@
+# Update 11/27/2020
+
+Heya.. I might finally come back to this.. or not...
+The original software dev is still using the atmega328p, and might go stm32?
+So this might be out to pasture forever (see, the lack of eeprom writing correctly)
+
+## Buuuuut...
+
+## Maybe not?
+
+I do have a *m5stack core2* that is tempting me.  And I understand the esp32 about a billion times better now.. (PlatformIO is now my friend)
+
+Point being, check out the [Narduino](https://blastersbyairzone.com/hardware/narfduino/) for now... and keep watching it.. (this was based off very early code from them)
+
+More at the [Airzone](http://blastersbyairzone.com/) site.. support them, because they have been so crazy helful to so many folks in the hobby!!!!!
+
+
 # Brushless-Dom-Nerf-esp32
 A brushless dominator code port of https://github.com/airzone-sama/Brushless_Dominator to the ESP32. 
 
